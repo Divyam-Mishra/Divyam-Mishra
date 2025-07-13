@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&background=FF000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Divyam+Mishra;Data+Science+%26+AI+Engineer;Researcher+%7C+Software+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&background=FF000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Divyam+Mishra;Data+Science+%26+AI+Engineer;Researcher+%7C+Software+Developer;Problem+Solver" alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/ArshErgon/ArshErgon/main/assets/header/lineBar.png" width="100%" height="8px"/>
 </div>
+
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px" height="35px">
@@ -25,7 +26,7 @@
 **LLMs**: LangChain, Hugging Face, OpenAI API  
 **Web**: HTML, CSS, JavaScript, Tailwind CSS  
 **Tools**: Git, Docker, Canva, PowerPoint  
-**DB**: PostgreSQL  
+**DB**: MySQL  
 
 ## 🧠 Projects
 
